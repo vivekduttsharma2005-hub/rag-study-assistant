@@ -1,0 +1,6 @@
+langchain
+faiss-cpu
+openai
+huggingface_hub
+sentence-transformers
+python-dotenv

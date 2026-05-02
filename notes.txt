@@ -1,0 +1,6 @@
+Retrieval-Augmented Generation (RAG) is a technique that combines retrieval of relevant information 
+from a knowledge base with generation capabilities of a language model.
+
+Embeddings are numerical vector representations of text that capture semantic meaning.
+
+FAISS is a library developed by Facebook AI for efficient similarity search and clustering of dense vectors.
